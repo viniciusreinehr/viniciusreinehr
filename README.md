@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viniciusreinehr
 - 👀 I’m interested in facilities
-- 🌱 I’m love agile and metrics
+- 🌱 I love agile and metrics
 - 💞️ I’m looking to collaborate on people daily`s job
 - 📫 How to reach me: @viniciusreinehr in twitter and linkedin
 
