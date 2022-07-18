@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @viniciusreinehr
 - 👀 I’m interested in facilities
-- 🌱 I’m currently learning agile
+- 🌱 I’m love agile and metrics
 - 💞️ I’m looking to collaborate on people daily`s job
-- 📫 How to reach me: @viniciusreinehr in twitter, instagram, facebook and linkedin
+- 📫 How to reach me: @viniciusreinehr in twitter and linkedin
 
 <!---
 viniciusreinehr/viniciusreinehr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
